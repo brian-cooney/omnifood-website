@@ -278,6 +278,7 @@ header {
   float: left;
   font-size: 150%;
   margin-left: 25px;
+  margin-right: 14px;
 }
 .btn-app:link,
 .btn-app:visited {
